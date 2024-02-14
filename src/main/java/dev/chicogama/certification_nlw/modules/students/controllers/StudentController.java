@@ -17,4 +17,4 @@ public class StudentController {
         System.out.println(verifyHasCertificationDTO);
         return "Usuário pode fazer a prova";
     }
-}
+}   
